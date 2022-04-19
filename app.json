@@ -1,0 +1,30 @@
+{
+  "name": "Kanna GitBot - Pyrogram",
+  "description": "Bot alerta Git em Pyrogram.",
+  "keywords": [
+    "productivity",
+    "python",
+    "github"
+  ],
+  "repository": "https://github.com/fnixdev/KannaGitBot",
+  "logo": "https://telegra.ph/file/f84f9c790b22b18e63e2d.jpg",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Your Bot Token. From @BotFather.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Your APi Hash From Telegram",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Your Api ID From Telegram.",
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
