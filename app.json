@@ -10,15 +10,15 @@
   "logo": "https://telegra.ph/file/f84f9c790b22b18e63e2d.jpg",
   "env": {
     "BOT_TOKEN": {
-      "description": "Your Bot Token. From @BotFather.",
+      "description": "5334238584:AAGlh1k0qUrATWjmmrrAJONpby8HYEQZOo0",
       "value": ""
     },
     "API_HASH": {
-      "description": "Your APi Hash From Telegram",
+      "description": "ef8647c7cc742afbc865f47f63b426cc",
       "value": ""
     },
     "API_ID": {
-      "description": "Your Api ID From Telegram.",
+      "description": "7585981",
       "value": ""
     }
   },
